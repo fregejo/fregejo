@@ -1,7 +1,5 @@
 ### My name is Frederik 
 
-### What I do for a living 
-
 I work at an engineering company as a software developer. I prefer backend development. But it does happen that I do some frontend as well 🤓 
 Right now, I am working on some web applications for construction engineers.
 
